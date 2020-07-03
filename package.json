@@ -1,0 +1,33 @@
+{
+  "name": "video-extensions",
+  "version": "1.0.0",
+  "description": "A list of video file extensions.",
+  "main": "video-extensions.json",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennethSweezy/video-extensions.git"
+  },
+  "keywords": [
+    "extensions",
+    "extension",
+    "video",
+    "file formats",
+    "vid",
+    "mp4",
+    "mkv",
+    "webm"
+  ],
+  "author": "Kenneth Sweezy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KennethSweezy/video-extensions/issues"
+  },
+  "homepage": "https://github.com/KennethSweezy/video-extensions#readme",
+  "devDependencies": {
+    "ava": "^3.9.0",
+    "xo": "^0.32.1"
+  }
+}
