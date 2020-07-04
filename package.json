@@ -1,5 +1,5 @@
 {
-  "name": "video-extensions",
+  "name": "video_extensions",
   "version": "1.0.0",
   "description": "A list of video file extensions.",
   "main": "video-extensions.json",
